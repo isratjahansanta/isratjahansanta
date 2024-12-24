@@ -1,0 +1,15 @@
+.about {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.team-members {
+  display: flex;
+  justify-content: space-around;
+}
+
+.team-member {
+  padding: 20px;
+  background-color: #eee;
+  border-radius: 8px;
+}
